@@ -1,0 +1,14 @@
+*{
+    padding: 20px;
+    background-color: #eee;
+    border: 1px solid #999;
+}
+.left p{
+    border: 0px;
+}
+.left img{
+    float: left;
+}
+.right{
+    
+}
